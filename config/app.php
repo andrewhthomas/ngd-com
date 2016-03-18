@@ -156,7 +156,6 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
-        PhpConsole\Laravel\ServiceProvider::class,
         Barryvdh\Debugbar\ServiceProvider::class,
 
 
